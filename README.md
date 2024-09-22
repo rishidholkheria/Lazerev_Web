@@ -1,6 +1,8 @@
 # Lazerev_Web 🚀
 
-This project is a website I created to learn and explore more about web animations using **GSAP** (GreenSock Animation Platform). The site is built with **HTML**, **CSS**, and **JavaScript**, showcasing various animations and interactions. 
+This project is a website I created to learn and explore more about web animations using **GSAP** (GreenSock Animation Platform). The site is built with **HTML**, **CSS**, and **JavaScript**, showcasing various animations and interactions. I will be learning and implementing more over here(just for fun)😂✌️
+
+
 
 ## Project Link 🧑‍💻
 
